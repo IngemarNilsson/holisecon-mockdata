@@ -1,12 +1,12 @@
 [
 {
 	"id":"Col001",
-	"name":"Inkomst"
+	"name":"Inkomster",
 	"type":0
 },
 {
 	"id":"Col002",
-	"name":"Utgilft"
+	"name":"Utgifter"
 	"type":1
 }
 ]
