@@ -1,0 +1,12 @@
+[
+{
+	"id":"Col001",
+	"name":"Inkomst"
+	"type":0
+},
+{
+	"id":"Col002",
+	"name":"Utgilft"
+	"type":1
+}
+]
