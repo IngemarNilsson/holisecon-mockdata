@@ -1,12 +1,17 @@
 [
 {
 	"id":"Col001",
-	"name":"Inkomster",
-	"type":0
+	"name":"Lön",
+	"type":1
 },
 {
 	"id":"Col002",
-	"name":"Utgifter",
-	"type":1
+	"name":"Boende",
+	"type":0
+},
+{
+	"id":"Col003",
+	"name":"Mat",
+	"type":0
 }
 ]
