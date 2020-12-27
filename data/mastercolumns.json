@@ -24,5 +24,10 @@
 	"id":"Col005",
 	"name":"Hälsa övrigt",
 	"type":0
+},
+{
+	"id":"Col006",
+	"name":"Fritid",
+	"type":0
 }
 ]
