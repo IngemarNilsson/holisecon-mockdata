@@ -13,5 +13,15 @@
 	"id":"Col003",
 	"name":"Mat",
 	"type":0
+},
+	{
+	"id":"Col004",
+	"name":"Hälsa tillskott",
+	"type":0
+},
+{
+	"id":"Col005",
+	"name":"Hälsa övrigt",
+	"type":0
 }
 ]
